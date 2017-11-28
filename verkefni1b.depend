@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1511895861 source:c:\users\villi\dropbox\skólagit\verkefni1b\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
